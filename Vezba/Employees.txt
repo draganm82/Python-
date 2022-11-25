@@ -1,0 +1,6 @@
+Jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michele - Manager
+Oscar - Accountant
+Toby - HUman Resources
